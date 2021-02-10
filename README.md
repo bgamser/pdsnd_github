@@ -4,7 +4,7 @@ I created this README on the 25th of January
 This round is to improve the documentation !!!
 This is the second tound to to improve documentation !!!!
 My 3rd round to improving documentation ! 
-
+This is the change for additional improvements - section 3 of this quiz
 ### Project GIT
 Replace the Project Title
 Project GIT
