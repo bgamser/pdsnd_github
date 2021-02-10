@@ -53,7 +53,7 @@ def get_filters():
         day = input("For which days would you like to see data for:\n1.Sun\n2.Mon\n3.Tue\n4.Wed\n5.Thu\n6.Fri\n7.Sat\n8.all --> No specific day (All of them)")
         
         day = day.lower()
-        
+        #Here is where i am adding another comment for refactoring !!!
         if day == 'sun' or day == 'mon' or day == 'tue' or day == 'wed' or day == 'thu' or day == 'fri' or day == 'sat' or day == 'all':
             break            
             
